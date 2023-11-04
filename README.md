@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm Akarsh Raj 👋
+- Pursuing Masters in Artificial Intelligence 
+- 🔭 I’m currently learning symbolic AI and learning to code in ProLog
+- 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
+- 💬 Ask me about - NLP, LLM, CV, DL, Data Science
 <!--
 **akarshrajsingh7/akarshrajsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Akarsh Raj 👋
 - Pursuing Masters in Artificial Intelligence 
-- 🔭 I’m currently learning symbolic AI and learning to code in ProLog
+- 🔭 I’m currently learning how AI works mathematically
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
 - 💬 Ask me about - NLP, LLM, CV, DL, Data Science
 <!--

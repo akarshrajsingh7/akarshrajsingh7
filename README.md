@@ -2,7 +2,7 @@
 - Pursuing Masters in Artificial Intelligence 
 - 🔭 I’m currently learning how AI works.
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
-- 💬 Ask me about - NLP, LLM, CV, DL, Data Science
+- 💬 Ask me about - NLP, Large Language Models, Deep Learning, Data Science
 <!--
 **akarshrajsingh7/akarshrajsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

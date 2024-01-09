@@ -1,6 +1,6 @@
 ### Hi there, I'm Akarsh Raj 👋
-- Pursuing Masters in Artificial Intelligence 
-- 🔭 I’m currently learning how AI works.
+- Pursuing Masters in Artificial Intelligence from FAU Germany
+- 🔭 I have more than 6 years of experience in the field of Data Sciences and AI.
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
 - 💬 Ask me about - Generative AI, NLP, Large Language Models (LLMs), Deep Learning, Data Science
 <!--

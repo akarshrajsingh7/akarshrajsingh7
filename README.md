@@ -1,5 +1,5 @@
 ### Hi there, I'm Akarsh Raj 👋
-- Pursuing Masters in Artificial Intelligence from FAU, Germany
+- Currently pursuing Masters in Artificial Intelligence from FAU, Germany
 - 🔭 Have more than 6 years of experience in the field of Data Sciences and AI.
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
 - 💬 Ask me about - Generative AI, NLP, Large Language Models (LLMs), Deep Learning, Data Science

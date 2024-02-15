@@ -1,8 +1,11 @@
+
 ### Hi there, I'm Akarsh Raj 👋
 - Currently pursuing Masters in Artificial Intelligence from FAU, Germany
 - 🔭 Have more than 6 years of experience in the field of Data Sciences and AI - https://www.linkedin.com/in/akarshrajsingh7/
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
 - 💬 Ask me about - Generative AI, NLP, Large Language Models (LLMs), Deep Learning, Data Science
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshrajsingh7&label=Profile%20views&color=0e75b6&style=flat" alt="akarshrajsingh7" /> </p>
 <!--
 **akarshrajsingh7/akarshrajsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

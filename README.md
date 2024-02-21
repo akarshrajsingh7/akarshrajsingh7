@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshrajsingh7&label=Profile%20views&color=0e75b6&style=flat" alt="akarshrajsingh7" /> </p>
 
 ### Hi there, I'm Akarsh Raj 👋
 - Currently pursuing Masters in Artificial Intelligence from FAU, Germany
@@ -5,7 +6,6 @@
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
 - 💬 Ask me about - Generative AI, NLP, Large Language Models (LLMs), Deep Learning, Data Science
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarshrajsingh7&label=Profile%20views&color=0e75b6&style=flat" alt="akarshrajsingh7" /> </p>
 <!--
 **akarshrajsingh7/akarshrajsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

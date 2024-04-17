@@ -4,7 +4,7 @@
 - Currently pursuing Masters in Artificial Intelligence from FAU, Germany
 - 🔭 Have more than 6 years of experience in the field of Data Sciences and AI - https://www.linkedin.com/in/akarshrajsingh7/
 - 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
-- 💬 Ask me about - Generative AI, NLP, Large Language Models (LLMs), Deep Learning, Data Science
+- 💬 Ask me about - Generative AI, NLP, Computer Vision,Reinforcement Learning, Deep Learning
 
 <!--
 **akarshrajsingh7/akarshrajsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

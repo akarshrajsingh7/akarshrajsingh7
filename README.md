@@ -3,7 +3,7 @@
 ### Hi there, I'm Akarsh Raj 👋
 - Currently pursuing Masters in Artificial Intelligence from FAU, Germany
 - 🔭 Have more than 7 years of experience in the field of Data Sciences and AI - https://www.linkedin.com/in/akarshrajsingh7/
-- 📫 How to reach me: You can reach me on akarshraj.ds@gmail.com
+- 📫 How to reach me: You can reach me on akarshraj.oss@gmail.com
 - 💬 Ask me about - Generative AI, NLP, Computer Vision,Reinforcement Learning, Deep Learning
 
 <!--
